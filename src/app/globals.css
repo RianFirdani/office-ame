@@ -1,6 +1,9 @@
 /*
 ! tailwindcss v3.4.4 | MIT License | https://tailwindcss.com
 */
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
